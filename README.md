@@ -10,6 +10,6 @@ The video eventListener for `play` fires up too early on low-end machines, befor
 
 
 
-###The webcam image and rectangle need to set properly</p><br>
-####https://github.com/justadudewhohacks/face-api.js or npm i face-api.js canvas @tensorflow/tfjs-node </p><br>
+### The webcam image and rectangle need to set properly</p><br>
+#### https://github.com/justadudewhohacks/face-api.js or npm i face-api.js canvas @tensorflow/tfjs-node </p><br>
     
